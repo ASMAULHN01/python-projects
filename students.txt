@@ -1,0 +1,5 @@
+Name: Asmaul Hoque , roll_no: 11200124057 , department: CSE , city: Murshidabad 
+Name: Jubair Ahmed , roll_no: 11200124058 , department: CSE , city: Kolkata 
+Name: Arnab Pradhan , roll_no: 11200124056 , department: CSE , city: Medinipur 
+Name: Rakibul Islam Mollah , roll_no: 11200124060 , department: LT , city: Birbhum 
+Name: Jamil Aktar , roll_no: 11200124065 , department: CSE , city: Murshidabad 
