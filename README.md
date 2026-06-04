@@ -1,7 +1,7 @@
 # 🔐 Python Cybersecurity Projects
 
 Hi there! I am Asmaul Hoque, a CSE 2nd year student at 
-Government College of Engineering and Leather Technology. 
+Government College of Engineering and Leather Technology. Salt Lake , Kolkata.
 I am interested in Python and Cybersecurity. 
 Here are my practice projects:
 
